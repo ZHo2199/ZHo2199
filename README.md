@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 🔭 I’m currently working on Lexical Retrieval
+- 🔭 I’m currently working on Language Production
 - 🌱 I’m currently learning Psycholinguistics
 - 👯 I’m looking to collaborate on Language Sciences
 - 🤔 I’m looking for help with coding
